@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Zohaib 👋
 
-<!--
-**engrzaib34/engrzaib34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Graduate | Software Development | AI & Machine Learning
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate from the University of Sahiwal, interested in
+software engineering, artificial intelligence, machine learning, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **BS Software Engineering** — University of Sahiwal  
+📅 **Graduated:** 2025  
+📊 **CGPA:** 3.07/4.00
+
+---
+
+## 🔧 Technical Interests
+
+- Software Engineering
+- Computer Science
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Web Development
+- Database Systems
+- Software Architecture
+
+---
+
+## 💻 Technologies
+
+### Programming
+- Python
+- Java
+- JavaScript
+- C/C++
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Databases
+- MySQL
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### Project 1 — Coming Soon
+> Project description will be added here.
+
+**Technologies:** Python, ...
+
+### Project 2 — Coming Soon
+> Project description will be added here.
+
+**Technologies:** ...
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Advanced Python
+- Git & GitHub
+- Research Methodology
+
+---
+
+## 🎯 2027 Goal
+
+Preparing for Master's studies in:
+
+- Software Engineering
+- Computer Science
+- Artificial Intelligence
+- Data Science
+
+Interested in research and graduate study opportunities internationally.
+
+⭐ Thanks for visiting my profile!
